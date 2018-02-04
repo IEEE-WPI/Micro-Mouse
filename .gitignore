@@ -1,0 +1,6 @@
+obj/
+bin/
+src/*.swp
+hdr/*.swp
+tst/*.swp
+
